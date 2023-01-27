@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "elasticsearch": "^16.7.3",
+    "inquirer": "^9.1.4"
+  }
+}
