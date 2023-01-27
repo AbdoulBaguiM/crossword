@@ -9,7 +9,7 @@ This game is a crossword game based on Elasticsearch and JavaScript. It allows y
 3. Open a terminal in the directory where the downloaded file is located.
 4. Install dependencies by running the `npm install` command.
 5. Populate the Elasticsearch index according to this [article](https://medium.com/@mhdabdel151/building-a-simple-crossword-game-with-elasticsearch-3c1f4bf51e0).
-6. Run the game using the `node index.js` command.
+6. Run the game using the `node game.js` command.
 7. Follow the instructions in the console to complete the crossword puzzle.
 
 ## Use
